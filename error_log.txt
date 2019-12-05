@@ -1,0 +1,169 @@
+[08-Nov-2019 03:25:03 UTC] PHP Notice:  Undefined variable: dbname in C:\xampp\htdocs\SCA\adminAgenda.php on line 104
+[08-Nov-2019 03:25:05 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 106
+[08-Nov-2019 03:25:05 UTC] PHP Notice:  Undefined variable: dbname in C:\xampp\htdocs\SCA\adminAgenda.php on line 151
+[08-Nov-2019 03:25:05 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:25:05 UTC] PHP Notice:  Undefined variable: dbname in C:\xampp\htdocs\SCA\adminAgenda.php on line 151
+[08-Nov-2019 03:25:05 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:25:05 UTC] PHP Notice:  Undefined variable: dbname in C:\xampp\htdocs\SCA\adminAgenda.php on line 151
+[08-Nov-2019 03:25:05 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:25:05 UTC] PHP Notice:  Undefined variable: dbname in C:\xampp\htdocs\SCA\adminAgenda.php on line 151
+[08-Nov-2019 03:25:05 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:25:05 UTC] PHP Notice:  Undefined variable: dbname in C:\xampp\htdocs\SCA\adminAgenda.php on line 151
+[08-Nov-2019 03:25:05 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:25:05 UTC] PHP Notice:  Undefined variable: dbname in C:\xampp\htdocs\SCA\adminAgenda.php on line 151
+[08-Nov-2019 03:25:05 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:25:05 UTC] PHP Notice:  Undefined variable: dbname in C:\xampp\htdocs\SCA\adminAgenda.php on line 151
+[08-Nov-2019 03:25:05 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:25:05 UTC] PHP Notice:  Undefined variable: dbname in C:\xampp\htdocs\SCA\adminAgenda.php on line 151
+[08-Nov-2019 03:25:05 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:25:06 UTC] PHP Notice:  Undefined variable: dbname in C:\xampp\htdocs\SCA\adminAgenda.php on line 151
+[08-Nov-2019 03:25:06 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:25:06 UTC] PHP Notice:  Undefined variable: dbname in C:\xampp\htdocs\SCA\adminAgenda.php on line 151
+[08-Nov-2019 03:25:06 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:25:06 UTC] PHP Notice:  Undefined variable: dbname in C:\xampp\htdocs\SCA\adminAgenda.php on line 151
+[08-Nov-2019 03:25:06 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:25:06 UTC] PHP Notice:  Undefined variable: dbname in C:\xampp\htdocs\SCA\adminAgenda.php on line 151
+[08-Nov-2019 03:25:06 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:25:06 UTC] PHP Notice:  Undefined variable: dbname in C:\xampp\htdocs\SCA\adminAgenda.php on line 151
+[08-Nov-2019 03:25:06 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:25:06 UTC] PHP Notice:  Undefined variable: dbname in C:\xampp\htdocs\SCA\adminAgenda.php on line 151
+[08-Nov-2019 03:25:06 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:25:06 UTC] PHP Notice:  Undefined variable: dbname in C:\xampp\htdocs\SCA\adminAgenda.php on line 151
+[08-Nov-2019 03:25:06 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:25:06 UTC] PHP Notice:  Undefined variable: dbname in C:\xampp\htdocs\SCA\adminAgenda.php on line 151
+[08-Nov-2019 03:25:06 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:25:06 UTC] PHP Notice:  Undefined variable: dbname in C:\xampp\htdocs\SCA\adminAgenda.php on line 151
+[08-Nov-2019 03:25:06 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:25:06 UTC] PHP Notice:  Undefined variable: dbname in C:\xampp\htdocs\SCA\adminAgenda.php on line 151
+[08-Nov-2019 03:25:06 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:25:06 UTC] PHP Notice:  Undefined variable: dbname in C:\xampp\htdocs\SCA\adminAgenda.php on line 151
+[08-Nov-2019 03:25:06 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:25:06 UTC] PHP Notice:  Undefined variable: dbname in C:\xampp\htdocs\SCA\adminAgenda.php on line 151
+[08-Nov-2019 03:25:06 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:25:06 UTC] PHP Notice:  Undefined variable: dbname in C:\xampp\htdocs\SCA\adminAgenda.php on line 151
+[08-Nov-2019 03:25:06 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:25:06 UTC] PHP Notice:  Undefined variable: dbname in C:\xampp\htdocs\SCA\adminAgenda.php on line 151
+[08-Nov-2019 03:25:06 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:25:06 UTC] PHP Notice:  Undefined variable: dbname in C:\xampp\htdocs\SCA\adminAgenda.php on line 151
+[08-Nov-2019 03:25:06 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:25:06 UTC] PHP Notice:  Undefined variable: dbname in C:\xampp\htdocs\SCA\adminAgenda.php on line 151
+[08-Nov-2019 03:25:06 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:25:07 UTC] PHP Notice:  Undefined variable: dbname in C:\xampp\htdocs\SCA\adminAgenda.php on line 151
+[08-Nov-2019 03:25:07 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:25:07 UTC] PHP Notice:  Undefined variable: dbname in C:\xampp\htdocs\SCA\adminAgenda.php on line 151
+[08-Nov-2019 03:25:07 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:25:07 UTC] PHP Notice:  Undefined variable: dbname in C:\xampp\htdocs\SCA\adminAgenda.php on line 151
+[08-Nov-2019 03:25:07 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:25:07 UTC] PHP Notice:  Undefined variable: dbname in C:\xampp\htdocs\SCA\adminAgenda.php on line 151
+[08-Nov-2019 03:25:07 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:25:07 UTC] PHP Notice:  Undefined variable: dbname in C:\xampp\htdocs\SCA\adminAgenda.php on line 151
+[08-Nov-2019 03:25:07 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:25:07 UTC] PHP Notice:  Undefined variable: dbname in C:\xampp\htdocs\SCA\adminAgenda.php on line 151
+[08-Nov-2019 03:25:07 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:27:27 UTC] PHP Warning:  mysql_connect(): Access denied for user 'usuario'@'localhost' (using password: YES) in C:\xampp\htdocs\SCA\config.inc.php on line 8
+[08-Nov-2019 03:27:28 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 106
+[08-Nov-2019 03:27:28 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:27:28 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:27:28 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:27:28 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:27:28 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:27:28 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:27:28 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:27:28 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:27:28 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:27:29 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:27:29 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:27:29 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:27:29 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:27:29 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:27:29 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:27:29 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:27:29 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:27:29 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:27:29 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:27:29 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:27:29 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:27:29 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:27:29 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:27:29 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:27:29 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:27:29 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:27:29 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:27:29 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:27:29 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:27:29 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:28:25 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\SCA\config.inc.php on line 8
+[08-Nov-2019 03:28:26 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 106
+[08-Nov-2019 03:28:26 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:28:26 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:28:26 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:28:26 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:28:26 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:28:26 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:28:26 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:28:26 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:28:26 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:28:27 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:28:27 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:28:27 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:28:27 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:28:27 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:28:27 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:28:27 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:28:27 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:28:27 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:28:27 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:28:27 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:28:27 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:28:27 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:28:27 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:28:27 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:28:27 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:28:27 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:28:28 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:28:28 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:28:28 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 03:28:28 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\adminAgenda.php on line 153
+[08-Nov-2019 18:41:04 UTC] PHP Notice:  Undefined index: Grupo in C:\xampp\htdocs\SCA\adminAgenda.php on line 16
+[08-Nov-2019 18:41:04 UTC] PHP Notice:  Undefined index: Nombre in C:\xampp\htdocs\SCA\adminAgenda.php on line 38
+[08-Nov-2019 19:45:55 UTC] PHP Notice:  Undefined index: Grupo in C:\xampp\htdocs\SCA\adminAgenda.php on line 16
+[08-Nov-2019 19:45:55 UTC] PHP Notice:  Undefined index: Nombre in C:\xampp\htdocs\SCA\adminAgenda.php on line 38
+[27-Nov-2019 13:50:55 UTC] PHP Notice:  Undefined index: Grupo in C:\xampp\htdocs\SCA\adminAgenda.php on line 16
+[27-Nov-2019 13:50:55 UTC] PHP Notice:  Undefined index: Grupo in C:\xampp\htdocs\SCA\adminAgenda.php on line 16
+[27-Nov-2019 13:50:55 UTC] PHP Notice:  Undefined index: Nombre in C:\xampp\htdocs\SCA\adminAgenda.php on line 38
+[27-Nov-2019 13:50:56 UTC] PHP Notice:  Undefined index: Nombre in C:\xampp\htdocs\SCA\adminAgenda.php on line 38
+[27-Nov-2019 13:51:02 UTC] PHP Notice:  Undefined index: Grupo in C:\xampp\htdocs\SCA\adminAgenda.php on line 16
+[27-Nov-2019 13:51:03 UTC] PHP Notice:  Undefined index: Nombre in C:\xampp\htdocs\SCA\adminAgenda.php on line 38
+[04-Dec-2019 19:34:51 UTC] PHP Warning:  mysql_connect():  in C:\xampp\htdocs\SCA\config.inc.php on line 8
+[04-Dec-2019 19:34:53 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\cordi.php on line 101
+[04-Dec-2019 19:34:53 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\cordi.php on line 148
+[04-Dec-2019 19:34:53 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\cordi.php on line 148
+[04-Dec-2019 19:34:53 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\cordi.php on line 148
+[04-Dec-2019 19:34:53 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\cordi.php on line 148
+[04-Dec-2019 19:34:53 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\cordi.php on line 148
+[04-Dec-2019 19:34:53 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\cordi.php on line 148
+[04-Dec-2019 19:34:53 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\cordi.php on line 148
+[04-Dec-2019 19:34:53 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\cordi.php on line 148
+[04-Dec-2019 19:34:53 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\cordi.php on line 148
+[04-Dec-2019 19:34:53 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\cordi.php on line 148
+[04-Dec-2019 19:34:53 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\cordi.php on line 148
+[04-Dec-2019 19:34:53 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\cordi.php on line 148
+[04-Dec-2019 19:34:53 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\cordi.php on line 148
+[04-Dec-2019 19:34:53 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\cordi.php on line 148
+[04-Dec-2019 19:34:53 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\cordi.php on line 148
+[04-Dec-2019 19:34:53 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\cordi.php on line 148
+[04-Dec-2019 19:34:53 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\cordi.php on line 148
+[04-Dec-2019 19:34:53 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\cordi.php on line 148
+[04-Dec-2019 19:34:53 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\cordi.php on line 148
+[04-Dec-2019 19:34:53 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\cordi.php on line 148
+[04-Dec-2019 19:34:53 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\cordi.php on line 148
+[04-Dec-2019 19:34:53 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\cordi.php on line 148
+[04-Dec-2019 19:34:53 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\cordi.php on line 148
+[04-Dec-2019 19:34:53 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\cordi.php on line 148
+[04-Dec-2019 19:34:53 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\cordi.php on line 148
+[04-Dec-2019 19:34:53 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\cordi.php on line 148
+[04-Dec-2019 19:34:53 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\cordi.php on line 148
+[04-Dec-2019 19:34:54 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\cordi.php on line 148
+[04-Dec-2019 19:34:54 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\cordi.php on line 148
+[04-Dec-2019 19:34:54 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\cordi.php on line 148
+[04-Dec-2019 19:34:54 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\SCA\cordi.php on line 148

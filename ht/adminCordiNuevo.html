@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Smart Catholic Agenda</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+	<link rel="stylesheet" href="librerias/css/estiloAdmin.css">
+	</head>
+	<body style="background:url(img/fondo1.jpeg) no-repeat center center fixed;background-size: cover;background-attachment: fixed;">	   
+		<div class="contenedor">
+			<header>
+				<nav>
+					<ul>
+						<li><a href="javascript:history.go(-2)">Smart Catholic Agenda</a></li>
+					</ul>
+				</nav>
+			</header>
+			<form action="cordiNuevo.php" class="form" method="POST">
+		        <div class="form-header">
+		    	    <p class="form-title"> <span>Registro de nuevo cordinador</span></p>
+		        </div>    
+		  		<label for="Usuario" class="form-label">Usuario:</label>
+			    <input type="text" class="form-input" name="Usuario" required=""  placeholder="Usuario" />
+			    <label for="Contraseña" class="form-label">Contraseña:</label>
+			    <input type="password" class="form-input" name="Contrasena" required=""  placeholder="Contraseña" />
+			    <label for="Nombre" class="form-label">Nombre:</label>
+			    <input type="text" class="form-input" name="Nombre" required=""  placeholder="Nombre" />
+			    <label for="ApellidoP" class="form-label">Apellido paterno:</label>
+			    <input type="text" class="form-input" name="ApellidoP" required=""  placeholder="Apellido paterno" />
+			    <label for="ApellidoM" class="form-label">Apellido materno:</label>
+			    <input type="text" class="form-input" name="ApellidoM" required=""  placeholder="Apellido materno" />
+			    <label for="Telefono" class="form-label">Teléfono:</label>
+			    <input type="text" class="form-input" name="Telefono" required=""  placeholder="Teléfono" />
+			    <label for="Dirección" class="form-label">Dirección:</label>
+			    <input type="text" class="form-input" name="Direccion" required=""  placeholder="Dirección" />	      
+			    <label for="Grupo" class="form-label">Grupo:</label>
+			    <input type="text" class="form-input" name="Grupo" required=""  placeholder="Grupo" />
+			    <label for="Rol" class="form-label">Rol:</label>
+			    <input type="text" class="form-input" name="Rol" required=""  placeholder="Rol" />
+			    <input type="submit" class="btn-submit" value="Registrar"><br>
+		    </form>
+		</div>
+	</body>
+</html>
